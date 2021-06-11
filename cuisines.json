@@ -1,0 +1,22 @@
+[
+   {
+      "name":"Pizza",
+      "image":"http://thelollipop.in/image/cache/catalog/farm%20house-550x650.jpg"
+   },
+   {
+      "name":"Sandwich",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzgfWxl3fyGOBMUxb24LTOfQxJEhqFBwbhMl9BHJg4YPvCTroVNM8lAGogIby3hTOmXA&usqp=CAU"
+   },
+   {
+      "name":"Dosa",
+      "image":"https://media.istockphoto.com/photos/cheese-masala-dosa-recipe-with-sambar-and-chutney-selective-focus-picture-id1156888714"
+   },
+   {
+      "name":"chiness",
+      "image":"https://www.wellandgood.com/wp-content/uploads/2020/12/chow-mein-cup-full-of-kale-feature.jpg"
+   },
+   {
+      "name":"Indian",
+      "image":"https://vnn-imgs-f.vgcloud.vn/2019/11/26/10/indian-food-is-terrible-tweet-sparks-hot-debate-about-racism.jpg"
+   }
+]
