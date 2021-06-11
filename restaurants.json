@@ -1,0 +1,38 @@
+[
+   {
+      "name":"Bhelwala.com",
+      "discription":"Chaat, Beverages",
+      "address":"Sarafa, Sarafa",
+      "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wsh9vql9ivnxmdmjtchk"
+   },
+   {
+      "name":"Shri Athithi Restaurant",
+      "discription":"Fast Food, Beverages",
+      "address":"Kalani Nagar, Kalani Nagar",
+      "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ccr18xc39kvqk2ktaa07"
+   },
+   {
+      "name":"Cup Bashii",
+      "discription":"Beverages, Snacks,Fast Food, Beverages",
+      "address":"Sudama Nagar, Sudama Nagar",
+      "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/pdt7pdqmpizqbwpfq6sh"
+   },
+   {
+      "name":"Madni Non Veg Restaurant",
+      "discription":"North Indian, Combo, Mughlai, Lucknowi",
+      "address":"Chandan Nagar, Sudama Nagar",
+      "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/my8hb5rzaoolujq3wa8q"
+   },
+   {
+      "name":"Midflight Garden Restaurant & Cafe",
+      "discription":"Indian, Chinese, Tandoor",
+      "address":"Kalani Nagar, Kalani Nagar",
+      "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/h7exeyzmaqgptw1mavru"
+   },
+   {
+      "name":"Chanchal Namkeen, Bhel & Chaats",
+      "discription":"Bakery, Fast Food, Chaat, Beverages",
+      "address":"Gangwal Bustand, Sarafa",
+      "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/pwtcprsb1mrqfqkker0c"
+   }
+]
